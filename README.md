@@ -5,4 +5,4 @@ Ben Ayşenur ÖZMEN. Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliğ
 
 
 
-//![Github_stats_1](https://github-readme-stats.verce1.app/api?username=AysenurOzmenn&show_icons=true&theme=gradient)
+![Github_stats_1](https://github-readme-stats.verce1.app/api?username=AysenurOzmenn&show_icons=true&theme=gradient)
