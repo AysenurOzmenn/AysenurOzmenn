@@ -1,6 +1,4 @@
-**Merhaba!** 👋
-
-Ben Ayşenur ÖZMEN. Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği bölümünden 2020 yılında mezun oldum. Okul hayatımda başladığım web programalamaya mezun olduktan sonra da devam ettim. ASP.Net kullanarak projeler geliştirdim. Hala da devam etmekteyim.
+**Hello!** 👋
 
 # 💫 About Me:
 I'm Ayşenur.<br>I graduated from KDPU Computer Engineering department in 2020.<br>I continued web programming, which I started in my school life, after I graduated.<br>I developed projects using ASP.net. I am still continuing.
